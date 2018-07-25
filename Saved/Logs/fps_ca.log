@@ -522,3 +522,11 @@ LogInit: Object subsystem initialized
 [2018.07.25-13.07.25:494][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.07.25-13.07.25:688][ 79]LogSlate: Window 'Message Log' being destroyed
 [2018.07.25-13.07.25:712][ 79]LogSlate: Window 'Message Log' being destroyed
+[2018.07.25-13.09.57:995][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.25-13.10.23:170][814]LogSavePackage: Moving '../../../../../../Users/A334/Documents/Unreal Projects/fps_ca-4.20-2/Saved/FirstPersonExampleMap_Auto130189C614919BD493F536095456C4DEE.tmp' to '../../../../../../Users/A334/Documents/Unreal Projects/fps_ca-4.20-2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.07.25-13.10.23:174][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.275
+[2018.07.25-13.10.23:174][814]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
+[2018.07.25-13.10.23:176][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.07.25-13.10.23:176][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData]
+[2018.07.25-13.10.23:212][814]LogSavePackage: Moving '../../../../../../Users/A334/Documents/Unreal Projects/fps_ca-4.20-2/Saved/FirstPersonExampleMap_BuiltData_998B20C84918E399E2517F8196DB3E78.tmp' to '../../../../../../Users/A334/Documents/Unreal Projects/fps_ca-4.20-2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData_Auto1.uasset'
+[2018.07.25-13.10.23:216][814]LogFileHelpers: Auto-saving content packages took 0.041
